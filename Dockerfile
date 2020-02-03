@@ -1,4 +1,4 @@
-FROM linuxserver/deluge:ed2b9165-ls6
+FROM linuxserver/deluge:amd64-latest
 LABEL maintainer="Matthew Crenshaw"
 
 VOLUME /config
